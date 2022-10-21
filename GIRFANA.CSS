@@ -382,20 +382,26 @@ label #cancel{
     font-weight: bold;
 }
 
-.section-1 .our_work .ouality{
+.section-1 .ouality{
     position: absolute;
-    width: 50rem;
-
-    font-size: 45px;
-    font-family: lato;
-    font-weight: 100;
-    color: white;
+    padding: 0;
+    list-style-type: none;
+    margin-top: -22rem;
+    margin-left: 50px;
 }
 
-.section-1 .our_work .ouality span{
+.section-1 .ouality li{
+    color: white;
+    font-size: 40px;
+    font-family: lato;
+    font-weight: 100;
+}
+
+.section-1 .ouality li span{
     font-family: lato;
     font-weight: 500;
 }
+
 
 .section_1 .Left-Right {
     position: absolute;
