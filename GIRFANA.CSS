@@ -388,7 +388,6 @@ label #cancel{
     list-style-type: none;
     margin-top: -22rem;
     margin-left: 50px;
-    color: white;
 }
 
 .section-1 .ouality li{
@@ -653,21 +652,45 @@ label #cancel{
         width: 100%;
         z-index: -1;
     }
-    .section-1 .our_work ul{
+    .section-1 .our_work{
         position: absolute;
-        margin-top: -40rem;
-        margin-left: 190px;
+        padding: 0;
+        list-style-type: none;
+        margin-top: -20rem;
+        margin-left: 150px;
     }
-    .section-1 .our_work ul #work{
-        font-size: 14rem;
+    
+    .section-1 .our_work #work{
+        color: white;
+        width: 150rem;
+        margin-top: -30rem;
+        position: absolute;
+        list-style-type: none;
+        font-size: 15rem;
+        font-family: 'beIN Black', sans-serif;
+        font-weight: bold;
     }
-    .section-1 .our_work ul li{
-        font-size: 55px;
-        margin-top: -160px;
+    
+    .section-1 .ouality{
+        position: absolute;
+        padding: 0;
+        list-style-type: none;
+        margin-top: -27rem;
+        margin-left: 150px;
     }
-    .section-1 .our_work ul li span{
-        font-weight: 700;
+    
+    .section-1 .ouality li{
+        color: white;
+        font-size: 60px;
+        font-family: lato;
+        font-weight: 100;
     }
+    
+    .section-1 .ouality li span{
+        font-family: lato;
+        font-weight: 500;
+    }
+    
     .container{
         height: auto;
         margin-left: 110rem;
@@ -768,20 +791,42 @@ label #cancel{
         z-index: -1;
         margin-top: 60px;
     }
-    .section-1 .our_work ul{
+    .section-1 .our_work{
         position: absolute;
+        padding: 0;
+        list-style-type: none;
+        margin-top: -20rem;
+        margin-left: 100px;
     }
-    .section-1 .our_work ul #work{
-        font-size: 8.5rem;
-        margin-top: 2rem;
-        margin-left: -8px;
+    
+    .section-1 .our_work #work{
+        color: white;
+        width: 80rem;
+        margin-top: -8rem;
+        position: absolute;
+        list-style-type: none;
+        font-size: 8rem;
+        font-family: 'beIN Black', sans-serif;
+        font-weight: bold;
     }
-    .section-1 .our_work ul li{
-        font-size: 30px;
-        margin-left: 10px;
-        margin-top: -100px;
+    
+    .section-1 .ouality{
+        position: absolute;
+        padding: 0;
+        list-style-type: none;
+        margin-top: -16rem;
+        margin-left: 100px;
     }
-    .section-1 .our_work ul li span{
+    
+    .section-1 .ouality li{
+        color: white;
+        font-size: 33px;
+        font-family: lato;
+        font-weight: 100;
+    }
+    
+    .section-1 .ouality li span{
+        font-family: lato;
         font-weight: 500;
     }
     .container{
@@ -886,20 +931,42 @@ label #cancel{
         z-index: -1;
         margin-top: 60px;
     }
-    .section-1 .our_work ul{
+    .section-1 .our_work{
         position: absolute;
+        padding: 0;
+        list-style-type: none;
+        margin-top: -8rem;
+        margin-left: 120px;
     }
-    .section-1 .our_work ul #work{
-        font-size: 8.5rem;
-        margin-top: 2rem;
-        margin-left: -8px;
+    
+    .section-1 .our_work #work{
+        color: white;
+        width: 80rem;
+        margin-top: -20rem;
+        position: absolute;
+        list-style-type: none;
+        font-size: 8rem;
+        font-family: 'beIN Black', sans-serif;
+        font-weight: bold;
     }
-    .section-1 .our_work ul li{
-        font-size: 30px;
-        margin-left: 10px;
-        margin-top: -100px;
+    
+    .section-1 .ouality{
+        position: absolute;
+        padding: 0;
+        list-style-type: none;
+        margin-top: -16rem;
+        margin-left: 120px;
     }
-    .section-1 .our_work ul li span{
+    
+    .section-1 .ouality li{
+        color: white;
+        font-size: 28px;
+        font-family: lato;
+        font-weight: 100;
+    }
+    
+    .section-1 .ouality li span{
+        font-family: lato;
         font-weight: 500;
     }
     .container{
@@ -1068,7 +1135,7 @@ label #cancel{
         margin: 8px 40px;
         border: 1px solid #F05947;
         transition: all 0.5s ease;
-        left: 1100px;
+        left: 1200px;
     }
     
     label #cancel{
@@ -1077,13 +1144,13 @@ label #cancel{
     }
     
     #check:checked ~ label #btn{
-        margin-left: -655px;
+        margin-left: -750px;
         opacity: 0;
         visibility: hidden;
     }
     
     #check:checked ~ label #cancel{
-        margin-left: -655px;
+        margin-left: -750px;
         opacity: 1;
         visibility: visible;
     }
@@ -1255,26 +1322,48 @@ label #cancel{
 
 
     .section-1 .sec-1_img #s-1_img{
-        width: 160.8%;
+        width: 172.1%;
         z-index: -1;
         margin-top: 60px;
     }
 
 
-    .section-1 .our_work ul{
+    .section-1 .our_work{
         position: absolute;
+        padding: 0;
+        list-style-type: none;
+        margin-top: -6rem;
+        margin-left: 50px;
     }
-    .section-1 .our_work ul #work{
-        font-size: 7rem;
-        margin-top: 7rem;
-        margin-left: -5px;
+    
+    .section-1 .our_work #work{
+        color: white;
+        width: 50rem;
+        margin-top: -20rem;
+        position: absolute;
+        list-style-type: none;
+        font-size: 7.5rem;
+        font-family: 'beIN Black', sans-serif;
+        font-weight: bold;
     }
-    .section-1 .our_work ul li{
+    
+    .section-1 .ouality{
+        position: absolute;
+        padding: 0;
+        list-style-type: none;
+        margin-top: -15rem;
+        margin-left: 50px;
+    }
+    
+    .section-1 .ouality li{
+        color: white;
         font-size: 30px;
-        margin-left: 10px;
-        margin-top: -80px;
+        font-family: lato;
+        font-weight: 100;
     }
-    .section-1 .our_work ul li span{
+    
+    .section-1 .ouality li span{
+        font-family: lato;
         font-weight: 500;
     }
     .container{
@@ -1285,7 +1374,7 @@ label #cancel{
     }
     .section-1 .Right #Right1{
         position: absolute;
-        margin-left: 72.1rem;
+        margin-left: 77.5rem;
         width: 80px;
         margin-top: 27.2px;
     }
@@ -1641,23 +1730,43 @@ ul.topnav li.dropdown-menu {
         background-repeat: no-repeat;
         background-size: 106.3rem;
     }
-    .section-1 .our_work ul{
+    .section-1 .our_work{
         position: absolute;
-    }
-    .section-1 .our_work ul #work{/*takmila*/
-        font-size: 15rem;
-        margin-left: 5rem;
-        margin-top: 70rem;
-        width: 180%;
-        display: flex;
-    }
-    .section-1 .our_work ul li{
-        font-size: 60px;
-        margin-left: 15rem;
+        padding: 0;
+        list-style-type: none;
+        margin-left: 16rem;
         margin-top: -12rem;
-        width: 170%;
     }
-    .section-1 .our_work ul li span{
+    
+    .section-1 .our_work #work{
+        color: white;
+        width: 82rem;
+        margin-top: 50rem;
+        position: absolute;
+        list-style-type: none;
+        font-size: 14rem;
+        font-family: 'beIN Black', sans-serif;
+        font-weight: bold;
+    }
+    
+    .section-1 .ouality{
+        position: absolute;
+        padding: 0;
+        list-style-type: none;
+        margin-left: 25rem;
+        margin-top: 61rem;
+    }
+    
+    .section-1 .ouality li{
+        color: white;
+        width: 70rem;
+        font-size: 60px;
+        font-family: lato;
+        font-weight: 100;
+    }
+    
+    .section-1 .ouality li span{
+        font-family: lato;
         font-weight: 500;
     }
     .container{
@@ -1923,107 +2032,107 @@ ul.topnav li.dropdown-menu {
     }
 /*___________________________________icon left________________________________________*/
 
-.box1 .longvar .h611{
-    list-style-type: none;
-    margin-left: 5px;
-}
+    .box1 .longvar .h611{
+        list-style-type: none;
+        margin-left: 5px;
+    }
 
 
-.box1 .longvar .h611 #svg1{
-    position: absolute;
-    color: #F05947;
-    margin-top: -6.5rem;
-    margin-left: -50px;
-    width: 4rem;
-    height: 4rem;
-}
+    .box1 .longvar .h611 #svg1{
+        position: absolute;
+        color: #F05947;
+        margin-top: -6.5rem;
+        margin-left: -50px;
+        width: 4rem;
+        height: 4rem;
+    }
 
 /*_____________________________ STAYLING SUB _____________________________*/
 
 
-.box1 .sub-content1 {
-    position: absolute;
-    font-family: lato;
-    overflow: hidden;
-    text-align: center;
-    background-color: white;
-    max-height: 0;
-    transition: 0.2s;
-    border-radius: 5px;
-    width: 60rem;
-    height: auto;
-    font-size: 6rem;
-    line-height: 7rem;
-}
+    .box1 .sub-content1 {
+        position: absolute;
+        font-family: lato;
+        overflow: hidden;
+        text-align: center;
+        background-color: white;
+        max-height: 0;
+        transition: 0.2s;
+        border-radius: 5px;
+        width: 60rem;
+        height: auto;
+        font-size: 6rem;
+        line-height: 7rem;
+    }
 
 
-.box1 .sub-content1 a {
-    color: #F05947;
-    text-decoration: none;
-}
+    .box1 .sub-content1 a {
+        color: #F05947;
+        text-decoration: none;
+    }
 
-.box1 .sub-drop1 {
-    padding: 0;
-}
+    .box1 .sub-drop1 {
+        padding: 0;
+    }
 
-.box1 .sub-drop1 ul {
-    width: 100%;
-    padding: 0;
-    margin: 0;
-    list-style-type: none;
-}
+    .box1 .sub-drop1 ul {
+        width: 100%;
+        padding: 0;
+        margin: 0;
+        list-style-type: none;
+    }
 
-.box1 .sub-drop1 ul li a {
-    display: inline-block;
-    padding: 10px 20px;
-    font-family: 'Ubuntu', sans-serif;
-}
+    .box1 .sub-drop1 ul li a {
+        display: inline-block;
+        padding: 10px 20px;
+        font-family: 'Ubuntu', sans-serif;
+    }
 
 
 /*_____________________________ CONTROLING _____________________________*/
 
 
-.box1  ul li:hover .sub-content1{
-    max-height: 400px;
-    transition: max-height 0.2s ease-in;
-    -webkit-transition: max-height 0.3s ease-in;
-    -moz-transition: max-height 0.3s ease-in;
-}
+    .box1  ul li:hover .sub-content1{
+        max-height: 400px;
+        transition: max-height 0.2s ease-in;
+        -webkit-transition: max-height 0.3s ease-in;
+        -moz-transition: max-height 0.3s ease-in;
+    }
 
 
 
 
 /*----------------------------------------------------------------------------------------*/
 
-.box1  #svg1{
-    color: #F05947;
-    position: absolute;
-    margin-left: 5px;
-    transition: all 0.4s;
-    display: block;
-}
+    .box1  #svg1{
+        color: #F05947;
+        position: absolute;
+        margin-left: 5px;
+        transition: all 0.4s;
+        display: block;
+    }
 
 
-.box1 .menu-item1 {
-    display: inline-block;
-    height: 40px;
-    color: #F05947;
-    text-decoration: none;
-    transition: all 0.6s;
-    font-family: lato;
-    font-weight: bold;
-}
+    .box1 .menu-item1 {
+        display: inline-block;
+        height: 40px;
+        color: #F05947;
+        text-decoration: none;
+        transition: all 0.6s;
+        font-family: lato;
+        font-weight: bold;
+    }
 
 
-.box1 ul li:hover #svg1{
-    transform: rotate(90deg);
-}
+    .box1 ul li:hover #svg1{
+        transform: rotate(90deg);
+    }
 
-.box1 .longvar .svg2 {
-    position: absolute;
-    margin-left: 18rem;
-    margin-top: -50px;
-}
+    .box1 .longvar .svg2 {
+        position: absolute;
+        margin-left: 18rem;
+        margin-top: -50px;
+    }
 
     /*--------------------------------------------------*/
     .section-1 .sec-1_img #s-1_img{
@@ -2036,23 +2145,44 @@ ul.topnav li.dropdown-menu {
         background-repeat: no-repeat;
         background-size: 93.7rem;
     }
-    .section-1 .our_work ul{
+
+    .section-1 .our_work{
         position: absolute;
+        padding: 0;
+        list-style-type: none;
+        margin-left: 16rem;
+        margin-top: -12rem;
     }
-    .section-1 .our_work ul #work{/*takmila*/
-        font-size: 14rem;
-        margin-left: 2rem;
-        margin-top: 70rem;
-        width: 180%;
-        display: flex;
+
+    .section-1 .our_work #work{
+        color: white;
+        width: 70rem;
+        margin-top: 50rem;
+        position: absolute;
+        list-style-type: none;
+        font-size: 12rem;
+        font-family: 'beIN Black', sans-serif;
+        font-weight: bold;
     }
-    .section-1 .our_work ul li{
-        font-size: 60px;
-        margin-left: 10rem;
-        margin-top: -11rem;
-        width: 170%;
+
+    .section-1 .ouality{
+        position: absolute;
+        padding: 0;
+        list-style-type: none;
+        margin-left: 25rem;
+        margin-top: 58rem;
     }
-    .section-1 .our_work ul li span{
+
+    .section-1 .ouality li{
+        color: white;
+        width: 55rem;
+        font-size: 50px;
+        font-family: lato;
+        font-weight: 100;
+    }
+
+    .section-1 .ouality li span{
+        font-family: lato;
         font-weight: 500;
     }
     .container{
@@ -2101,13 +2231,13 @@ ul.topnav li.dropdown-menu {
     }
     .prev-button{
         position: absolute;
-        margin-top: 165rem;
+        margin-top: 170rem;
         margin-left: 15rem;
     }
     
     .next-button{
         position: absolute;
-        margin-top: 165rem;
+        margin-top: 170rem;
     }
     .prev-button #li2{
         position: absolute;
@@ -2119,9 +2249,8 @@ ul.topnav li.dropdown-menu {
         width: 7rem;
         margin-left: 22rem;
     }
-    
-}
 
+}
 /*____________________________Mobaile S - 320______________________________________________*/
 @media screen and (min-width: 320px) and (max-width: 370px){
     .sidebar{
@@ -2433,23 +2562,43 @@ ul.topnav li.dropdown-menu {
         background-repeat: no-repeat;
         background-size: 80.1rem;
     }
-    .section-1 .our_work ul{
+    .section-1 .our_work{
         position: absolute;
+        padding: 0;
+        list-style-type: none;
+        margin-left: 8rem;
+        margin-top: -12rem;
     }
-    .section-1 .our_work ul #work{/*takmila*/
+    
+    .section-1 .our_work #work{
+        color: white;
+        width: 70rem;
+        margin-top: 50rem;
+        position: absolute;
+        list-style-type: none;
         font-size: 12rem;
-        margin-left: 1rem;
-        margin-top: 70rem;
-        width: 180%;
-        display: flex;
+        font-family: 'beIN Black', sans-serif;
+        font-weight: bold;
     }
-    .section-1 .our_work ul li{
+    
+    .section-1 .ouality{
+        position: absolute;
+        padding: 0;
+        list-style-type: none;
+        margin-left: 15rem;
+        margin-top: 58rem;
+    }
+    
+    .section-1 .ouality li{
+        color: white;
+        width: 55rem;
         font-size: 50px;
-        margin-left: 8.5rem;
-        margin-top: -9rem;
-        width: 170%;
+        font-family: lato;
+        font-weight: 100;
     }
-    .section-1 .our_work ul li span{
+    
+    .section-1 .ouality li span{
+        font-family: lato;
         font-weight: 500;
     }
     .container{
@@ -2498,13 +2647,13 @@ ul.topnav li.dropdown-menu {
     }
     .prev-button{
         position: absolute;
-        margin-top: 151rem;
+        margin-top: 155rem;
         margin-left: 12rem;
     }
     
     .next-button{
         position: absolute;
-        margin-top: 151rem;
+        margin-top: 155rem;
     }
     .prev-button #li2{
         position: absolute;
@@ -2518,3 +2667,421 @@ ul.topnav li.dropdown-menu {
     }
     
 }
+
+/*____________________________samsoung s+ 360______________________________________*/
+@media screen and (min-width: 310px) and (max-width: 360px){
+    .sidebar{
+        z-index: 3;
+        position: fixed;
+        left: 1000px;
+        width: 1000px;
+        height: 100%;
+        margin-left: 500px;
+        background: white;
+        transition: all 0.5s ease;
+        font-size: 65px;
+    }
+    
+    .sidebar #B1{
+        display: block;
+        color: #F05947;
+        height: 250px;
+        width: 100%;
+        line-height: 16rem;
+        border-left: 5px solid transparent;
+        box-sizing: border-box;
+        transition: all 0.5s ease;
+        font-family: lato;
+        font-weight: bold;
+        padding-left: 14rem;
+    }
+    
+    
+    #B1:hover, #B1.active{
+        border-left: 5px solid #F05947;
+        background: #f1f2f6;
+    }
+    
+    .sidebar #B1 i{
+        font-size: 23px;
+        margin-right: 25rem;
+    }
+    
+    .sidebar #B1 span{
+        letter-spacing: 1px;
+        text-transform: uppercase;
+        padding-left: 60px;
+        padding-top: -25rem;
+    }
+
+    .sidebar #B1 #i{
+        position: absolute;
+        width: 8rem;
+        margin-top: 65px;
+        margin-left: -6rem;
+        display: block;
+    }
+
+    .sidebar #B1 #i1{
+        position: absolute;
+        width: 8rem;
+        margin-top: 75px;
+        margin-left: -6rem;
+        display: block;
+    }
+
+    .sidebar #B1 #i2{
+        position: absolute;
+        width: 8rem;
+        margin-top: 48px;
+        margin-left: -6rem;
+        display: block;
+    }
+
+    .sidebar #B1 #i3{
+        position: absolute;
+        width: 8rem;
+        margin-top: 90px;
+        margin-left: -6rem;
+        display: block;
+    }
+
+    .sidebar #B1 #i4{
+        position: absolute;
+        width: 7.5rem;
+        margin-top: 50px;
+        margin-left: -6rem;
+        display: block;
+    }
+
+    .sidebar #B1 #i5{
+        position: absolute;
+        width: 7.5rem;
+        margin-top: 65px;
+        margin-left: -6rem;
+        display: block;
+    }
+
+    
+    #check{
+        display: none;
+    }
+    
+    label #btn, label #cancel{
+        z-index: 5;
+        position: absolute;
+        cursor: pointer;
+        background: #F05947;
+        height: 60px;
+        width: 60px;
+        text-align: center;
+        line-height: 58px;
+        color: white;
+        font-size: 40px;
+        border-radius: 5px;
+        margin: 30px 30px;
+        border: 1px solid #F05947;
+        transition: all 0.5s ease;
+        left: 1295px;
+    }
+    
+    label #cancel{
+        opacity: 0;
+        visibility: hidden;
+    }
+    
+    #check:checked ~ label #btn{
+        margin-left: -865px;
+        opacity: 0;
+        visibility: hidden;
+    }
+    
+    #check:checked ~ label #cancel{
+        margin-left: -865px;
+        opacity: 1;
+        visibility: visible;
+    }
+    
+    #check:checked ~ .sidebar{
+        left: 0;
+    }
+    
+    .box1{
+        display: block;
+    }
+/*------------------------------------------------*/
+
+
+    /*----------------*/  
+    .nav{
+        position: fixed;
+        width: 399%;
+        background-color: white;
+        padding: 0;
+        height: 120px;;
+        position: relative;
+    }
+    .nav #img1{
+        position: relative;
+        display: block;
+        width: 90px;
+        margin-left: 30px;
+        margin-top: 0px;
+        padding-top: 8px;
+    }
+    .navegation-icons ul{
+        position: relative;
+        display: flex;
+        gap: 10px ;
+        margin-left: 430px;
+        margin-top: -40px;
+        display: none;
+    }
+    .nav #img2 {
+        position: absolute;
+        width: 30px;
+        margin-left: 63.5rem;
+        margin-top: -60px;
+        display: none;
+    }
+    
+    .nav .h61{
+        position: absolute;
+        list-style-type: none;
+        width: 25px;
+        margin-left: 66rem;
+        font-size: 18px;
+        margin-top: -57px;
+        font-family: lato;
+        font-weight: bold;
+        color: #F05947;
+        display: none;
+    }
+    .nav svg{
+        color: #F05947;
+        margin-left: 20px;
+        width: 12px;
+        display: none;
+    }
+/*___________________________________icon left________________________________________*/
+
+.box1 .longvar .h611{
+    list-style-type: none;
+    margin-left: 5px;
+}
+
+
+.box1 .longvar .h611 #svg1{
+    position: absolute;
+    color: #F05947;
+    margin-top: -6.5rem;
+    margin-left: -50px;
+    width: 4rem;
+    height: 4rem;
+}
+
+/*_____________________________ STAYLING SUB _____________________________*/
+
+
+.box1 .sub-content1 {
+    position: absolute;
+    font-family: lato;
+    overflow: hidden;
+    text-align: center;
+    background-color: white;
+    max-height: 0;
+    transition: 0.2s;
+    border-radius: 5px;
+    width: 60rem;
+    height: auto;
+    font-size: 4.7rem;
+    line-height: 6rem;
+}
+
+
+.box1 .sub-content1 a {
+    color: #F05947;
+    text-decoration: none;
+}
+
+.box1 .sub-drop1 {
+    padding: 0;
+}
+
+.box1 .sub-drop1 ul {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+.box1 .sub-drop1 ul li a {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-left: -10rem;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+/*_____________________________ CONTROLING _____________________________*/
+
+
+.box1  ul li:hover .sub-content1{
+    max-height: 400px;
+    transition: max-height 0.2s ease-in;
+    -webkit-transition: max-height 0.3s ease-in;
+    -moz-transition: max-height 0.3s ease-in;
+}
+
+
+
+
+/*----------------------------------------------------------------------------------------*/
+
+.box1  #svg1{
+    color: #F05947;
+    position: absolute;
+    margin-left: 5px;
+    transition: all 0.4s;
+    display: block;
+}
+
+
+.box1 .menu-item1 {
+    display: inline-block;
+    height: 40px;
+    color: #F05947;
+    text-decoration: none;
+    transition: all 0.6s;
+    font-family: lato;
+    font-weight: bold;
+}
+
+
+.box1 ul li:hover #svg1{
+    transform: rotate(90deg);
+}
+
+.box1 .longvar .svg2 {
+    position: absolute;
+    margin-left: 14rem;
+    margin-top: -50px;
+}
+
+    /*--------------------------------------------------*/
+    .section-1 .sec-1_img #s-1_img{
+        display: none;
+    }
+    body{
+        background-image: url(img/Mobile-sec1-bg.png);
+        z-index: -2;
+        width: 100%;
+        background-repeat: no-repeat;
+        background-size: 89.9rem;
+    }
+    .section-1 .our_work{
+        position: absolute;
+        padding: 0;
+        list-style-type: none;
+        margin-left: 12rem;
+        margin-top: -12rem;
+    }
+    
+    .section-1 .our_work #work{
+        color: white;
+        width: 70rem;
+        margin-top: 50rem;
+        position: absolute;
+        list-style-type: none;
+        font-size: 12rem;
+        font-family: 'beIN Black', sans-serif;
+        font-weight: bold;
+    }
+    
+    .section-1 .ouality{
+        position: absolute;
+        padding: 0;
+        list-style-type: none;
+        margin-left: 20rem;
+        margin-top: 58rem;
+    }
+    
+    .section-1 .ouality li{
+        color: white;
+        width: 55rem;
+        font-size: 50px;
+        font-family: lato;
+        font-weight: 100;
+    }
+    
+    .section-1 .ouality li span{
+        font-family: lato;
+        font-weight: 500;
+    }
+    .container{
+        height: auto;
+        margin-top: -25rem;
+        margin-left: 21rem;
+        width: 30rem;
+    }
+    .section-1 .Right #Right1{
+        position: absolute;
+        margin-left: 77.2rem;
+        width: 200px;
+        margin-top: 174.5rem;
+    }
+    .section-1 .Right #Left1{
+        position: absolute;
+        width: 200px;
+        margin-top: 174.5rem;
+    }
+
+    #img-0{
+        width: 160%;
+        vertical-align: middle; 
+        margin-top: 70rem;
+        margin-left: 20px;
+    }
+    .prev-button,
+    .next-button{
+        margin-top: 185rem;
+        margin-left: 20rem;
+        justify-content: center;
+        align-items: center;
+        cursor: pointer;
+        position: relative;
+        transition: color 0.3s ease;
+    }
+    .lines {
+        position: absolute;
+        bottom: -10px;
+        margin-left: 20rem;
+    }
+    .lines #li1{
+        width: 30px;
+        height: 9px;
+        margin-left: 15px;
+    }
+    .prev-button{
+        position: absolute;
+        margin-top: 155rem;
+        margin-left: 12rem;
+    }
+    
+    .next-button{
+        position: absolute;
+        margin-top: 155rem;
+    }
+    .prev-button #li2{
+        position: absolute;
+        width: 6.5rem;
+        margin-left: 45px;
+    }
+    .next-button #li3{
+        position: absolute;
+        width: 6.5rem;
+        margin-left: 15rem;
+    }
+    
+}
+
